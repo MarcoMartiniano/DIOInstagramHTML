@@ -1,10 +1,14 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto Digital Innovation One Instragram Login 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
-### Os requisitos são:
+## 🚀 Modificações 🚀
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+*Fundo para esse cinza bem escura para se aproximar do preto e não ficar muito forte
+*Substituí a imagem do celular pelo do símbolo do clube
+*Troquei as bordas das caixas do login para amarelo que é a terceira cor do clube e aumentei a espessura delas.
+*Aumentei o texto "Baixe o aplicativo" e coloquei em negrito
+*Coloquei um logo no final do Sócio Rei para incentivar as pessoas a ser sócias e ajudarem o clube.
+
+
+Como o azul é a quarta cor por estar perto do mar e representar o "Peixe" optei por não modificar a cor.
